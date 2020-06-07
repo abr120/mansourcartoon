@@ -1,0 +1,36 @@
+[
+ {
+     "title":"مسلسل منصور - الموسم الأول",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/mansourcartoon/master/001.jpg",
+    "arguments":[
+      "PLrEO7bVLqAMuA-edJU88wiqFyT0BZQCVB"
+    ]
+  },
+
+
+      {
+  "title":"مسلسل منصور - الموسم الثاني",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/mansourcartoon/master/002.jpg",
+    "arguments":[
+      "PLrEO7bVLqAMujYIlgozP1LGZzARVEziKn"
+    ]
+  },
+      {
+  "title":"مسلسل منصور - الموسم الثالث",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/mansourcartoon/master/003.jpg",
+    "arguments":[
+      "PLrEO7bVLqAMuGlzPSiB0524D5U37OqG9r"
+    ]
+  },
+      {
+  "title":"مسلسل منصور - الموسم الرابع ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/mansourcartoon/master/004.jpg",
+    "arguments":[
+      "PLrEO7bVLqAMtbKYrb_SKaj6ho-EcWRMrg"
+    ]
+  }
+]
